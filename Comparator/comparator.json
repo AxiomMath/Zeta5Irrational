@@ -1,0 +1,14 @@
+{
+    "challenge_module": "Challenge.Basic",
+    "solution_module": "Solution.Basic",
+    "theorem_names": [
+        "Zeta5Irr.Challenge.thm_main",
+        "Zeta5Irr.Challenge.thm_tsum"
+    ],
+    "permitted_axioms": [
+        "propext",
+        "Quot.sound",
+        "Classical.choice"
+    ],
+    "enable_nanoda": true
+}
